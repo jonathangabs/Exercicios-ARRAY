@@ -1,5 +1,5 @@
 <?php
-$vetor = [55,20,7,10,1];
+$vetor = [55,20,7,22,10,1];
 
 $maior = $vetor[0];
 $posicao = 0;
