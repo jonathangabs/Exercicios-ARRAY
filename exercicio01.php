@@ -2,7 +2,7 @@
 $vetor = [55,20,7,22,10,1];
 
 echo "Vetor original: \n";
-foreach ($vetor as $num); {
+foreach ($vetor as $num) {
     echo $num . " ";
 }
 
